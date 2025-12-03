@@ -5,7 +5,7 @@ The data is a `.csv` file containing information regarding the **season**, **epi
   - `Character` and `Line` → text strings  
 
 The dataset can be downloaded from the team’s shared GitHub repository:  
-🔗 [PanicAtTheDeadline Repository](https://github.com/Seanhru/PanicAtTheDeadline) [1]  
+🔗 [PanicAtTheDeadline Repository](https://github.com/Seanhru/PanicAtTheDeadline) [1]  or from this current repository under the data folder titled "All-seasons.csv"
 
 There are two versions of the dataset:  
 - **Original dataset** → `All-seasons.csv`  
@@ -41,12 +41,6 @@ The data is licensed under **Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)*
 
 ## Ethical Statement  
 All *South Park* characters, themes, and dialogue are the property of **Trey Parker** and **Matt Stone**. While the show may contain commentary or humor that is inappropriate for certain educational settings, the team focuses on analyzing **patterns in the data** to develop a functional machine learning model.  
-
----
-
-## Exploratory Plots
-![Top 10 Characters by Number of Lines](Output/Top_10_Characters_by_Number_of_Lines.png)
-![Total Number of Lines per Season](Output/Total_Number_of_Lines_per_Season.png)
 
 ---
 
